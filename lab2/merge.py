@@ -41,9 +41,3 @@ if __name__ == '__main__':
     listPrint(arr)
     mergeSort(arr)
     print(f"Sorted Array is {arr}")
-
-for i in range(0,51):
-    if(i%2==0):
-        print("Bat")
-    elif(i%4==0):
-        print("Ball")
